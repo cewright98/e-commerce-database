@@ -1,4 +1,4 @@
-# E-commerce Database
+# E-Commerce Database
 
 ## Description
 A mysql database for an e-commerce website that holds data pertaining to retail categories, products, and tags.
